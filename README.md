@@ -9,7 +9,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="left"><a href="/yandex-practicum-proj/tree/main/car_price">Стоимость авто</a></td>
+<td align="left"><a href="car_price">Стоимость авто</a></td>
 <td align="left"> 
 Разработка системы рекомендации стоимости автомобиля на основе его описани </td>
 <td align="left"><em>CatBoost | LightGMB | scikit-learn</em></td>
